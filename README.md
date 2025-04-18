@@ -53,6 +53,10 @@
 
 * https://forum.unity.com/threads/disconnecting-is-no-longer-implemented.656377/
 
+* 这个插件做来好玩的，其实 Debug 模式就可以方便的替换 Component 哦！
+
+![image](https://github.com/user-attachments/assets/02750119-1aef-4a91-8fd0-214897f84034)
+
 ## 贡献指南
 
 如果你有任何问题或建议，欢迎提交 issue 或 pull request。
@@ -113,6 +117,8 @@ The core idea is to directly replace the MonoScript instance to switch scripts w
 * [[Unity3D] How to Replace a Parent Component with a Subclass Component Without Loss - 简书](https://www.jianshu.com/p/baf1a0eb0298)
 
 * https://forum.unity.com/threads/disconnecting-is-no-longer-implemented.656377/
+
+* ![image](https://github.com/user-attachments/assets/02750119-1aef-4a91-8fd0-214897f84034)
 
 ## Contribution Guide
 
